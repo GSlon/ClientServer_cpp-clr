@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+f:\проекты_visual_studio\ppo_laba4\ppo_laba4\myform.h(407): warning C4101: 'ex': unreferenced local variable
+  Client.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PPO_laba4.vcxproj -> F:\проекты_visual_studio\PPO_laba4\Debug\PPO_laba4.exe
